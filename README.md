@@ -1,4 +1,4 @@
-# Get_dominant_color_in_image
+# Get the dominant color/colors in an image
 
 How to get the most dominant color/ colors in an image
 
